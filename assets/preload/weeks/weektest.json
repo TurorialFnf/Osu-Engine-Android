@@ -1,0 +1,19 @@
+{
+	"songs": [
+		["Test", "senpai-pixel", [255, 120, 191]]
+	],
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "school",
+
+	"storyName": "hating simulator ft. moawling",
+	"weekBefore": "week6",
+	"weekName": "Week test",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
